@@ -20,7 +20,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at Yangon Technological Universityy.
-- 💼 &nbsp; Working as a freelance developer on Upwork.
 - 📫 &nbsp; How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayhtetaung20133@gmail.com)](mailto:nayhtetaung20133@gmail.com)
 - 🌱 &nbsp; Learning about TypeScript.
 - ✍️ &nbsp; Listening music.
@@ -36,7 +35,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind&logoColor=563D7C)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
  
 - 🛢 &nbsp;
