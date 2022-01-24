@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nay Htet Aung</h1>
-<h3 align="center">A web developer from Myanmar</h3>
+<h3 align="center">Web developer</h3>
 
 
 
