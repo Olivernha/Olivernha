@@ -4,15 +4,15 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Nay Htet Aung <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Olivernha" alt="pwn" /> </p>
 
-<a href="https://www.facebook.com/phyowai.nyunt.33/" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100009412815085" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pwn" height="25" width="25" />
 </a>
 
-<a href="https://www.linkedin.com">
-  <img align="left" alt="PWN's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/nay-htet-aung-63b97618b">
+  <img align="left" alt="oliver's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/phyowainyunt-19">
-  <img align="left" alt="PWN's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/Olivernha">
+  <img align="left" alt="oliver's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br />
