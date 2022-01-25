@@ -47,7 +47,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 <br/>
 
-<a href="https://github.com/Olivernha">
+<!-- <a href="https://github.com/Olivernha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Olivernha&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivernha&theme=buefy&layout=compact" />
-</a>
+</a> -->
