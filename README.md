@@ -19,7 +19,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science at Yangon Technological Universityy.
+- 🎓 &nbsp; Studying Computer Engineering And Information Technology at Yangon Technological Universityy.
 - 📫 &nbsp; How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayhtetaung20133@gmail.com)](mailto:nayhtetaung20133@gmail.com)
 - 🌱 &nbsp; Learning about TypeScript.
 - ✍️ &nbsp; Listening music.
