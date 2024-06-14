@@ -21,7 +21,7 @@
 
 - 🎓 &nbsp; Studying Diploma In Information Technology at Singapore Polytechnic.
 - 📫 &nbsp; How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayhtetaung20133@gmail.com)](mailto:nayhtetaung20133@gmail.com)
-- 🌱 &nbsp; Learning about TypeScript.
+- 🌱 &nbsp; Learning about Java.
 - ✍️ &nbsp; Listening music.
 
 <h3> 🛠 &nbsp;My Stack</h3>
